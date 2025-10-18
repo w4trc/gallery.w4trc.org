@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gallery.w4trc.org/'
 languageCode = 'en-us'
-title = 'Joshua Carmack Gallery'
+title = 'Kingsport Amateur Radio Club Gallery'
 theme = 'gallery'
 timeout = 120000
