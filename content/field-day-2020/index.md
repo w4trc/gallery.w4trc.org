@@ -2,7 +2,7 @@
 description: 
 title: ARRL Field Day 2020
 date: 2020-06-26
-weight: 1
+weight: 10
 menus: "main"
 resources:
   - src: 4.jpg
